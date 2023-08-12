@@ -16,6 +16,6 @@ If you are not familiar with NeetCode, make sure to visit Creator's [original re
 and [website](https://neetcode.io/).
 
 ## Linked List
-| Problem                                                                                           | Difficulty | Solution |
-|---------------------------------------------------------------------------------------------------|------------|---------|
-| [Swapping Nodes in a Linked list](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | Medium     | [Go](https://github.com/StormbornYB/Neetcode-Solutions/blob/master/1721-swapping-nodes-in-a-linked-list.go)  |
+| Problem                                                                                           | Difficulty                               | Solution |
+|---------------------------------------------------------------------------------------------------|------------------------------------------|---------|
+| [Swapping Nodes in a Linked list](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | <span style="color:yellow">Medium</span> | [Go](https://github.com/StormbornYB/Neetcode-Solutions/blob/master/1721-swapping-nodes-in-a-linked-list.go)  |
